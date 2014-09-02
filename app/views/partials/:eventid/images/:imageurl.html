@@ -1,0 +1,21 @@
+<head>
+    <meta name="viewport" content="width=device-width">
+</head>
+<div class="container">
+    <div class="row-fluid">
+        <div class="col-md-2">
+            </br></br></br></br></br></br></br></br></br>
+            <p ng-click="goback(eventId2Show)"><img ng-src="images/back03.png" width="50"></p>
+            </select-->
+        </div>
+
+        <div class="col-md-8">
+            <div ng-repeat="eps in img.episodes | filter:{eventId : eventId2Show}">
+                <div ng-repeat="event in eps.events | filter:{imageUrl : img2Show}">
+                    <p style="font-size:25px"><b> {{event.name}} on {{event.time.real}}</b></p>
+                    <div ng-click="goback(eventId2Show)" align="center"><img ng-src="{{event.imageUrl}}.png" width="680"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
