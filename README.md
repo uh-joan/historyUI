@@ -1,7 +1,7 @@
 
 # historyUI
 
-Node.js version of the history <a href="https://github.com/uh-joan/UHCore/tree/master/WebUI/history">WebUI</a>
+Cherrypy version of the history <a href="https://github.com/uh-joan/UHCore/tree/master/WebUI/history">WebUI</a> as part of the <a href="https://github.com/uh-joan/UHCore">University of Hertfordshire Core code</a>
 
 <img src="https://github.com/uh-joan/historyUI/blob/master/app/images/overall02.png">
 
