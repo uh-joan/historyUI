@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eabef8a5-95d9-4a68-b14f-9ccc708e5e50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
     </list>
     <ignored path="historyUI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,7 +87,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="45" selection-start="675" selection-end="675" vertical-scroll-proportion="-0.52097905" vertical-offset="493" max-vertical-offset="1065">
+            <state line="13" column="45" selection-start="675" selection-end="675" vertical-scroll-proportion="0.3409091" vertical-offset="0" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -138,12 +138,12 @@
         <option value="$PROJECT_DIR$/app/scripts/controllers/:eventid.js" />
         <option value="$PROJECT_DIR$/app/styles/main.css" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/views/index.html" />
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
         <option value="$PROJECT_DIR$/app/views/partials/:eventid.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/:eventid/images/:imageurl.js" />
         <option value="$PROJECT_DIR$/app/views/partials/:eventid/images/:imageurl.html" />
         <option value="$PROJECT_DIR$/app/views/partials/main.html" />
+        <option value="$PROJECT_DIR$/app/views/index.html" />
       </list>
     </option>
   </component>
@@ -391,7 +391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="45" selection-start="675" selection-end="675" vertical-scroll-proportion="-0.52097905" vertical-offset="493" max-vertical-offset="1065">
+        <state line="13" column="45" selection-start="675" selection-end="675" vertical-scroll-proportion="0.3409091" vertical-offset="0" max-vertical-offset="1065">
           <folding />
         </state>
       </provider>
