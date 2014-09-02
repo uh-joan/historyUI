@@ -1,7 +1,7 @@
 
 # historyUI
 
-Node.js version of the history WebUI
+Node.js version of the history <a href="https://github.com/uh-joan/UHCore/tree/master/WebUI/history">WebUI</a>
 
 <!--img src="https://github.com/uh-joan/menucloud/blob/master/app/images/menucloud.png">
 
