@@ -1,7 +1,11 @@
 
 # historyUI
 
-Cherrypy version of the history <a href="https://github.com/uh-joan/UHCore/tree/master/WebUI/history">WebUI</a> as part of the <a href="https://github.com/uh-joan/UHCore">University of Hertfordshire Core code</a>
+Angular-based history of events. It takes all the events through JSON media type to show the data on the client-side.
+
+This represents the COB robot memory of the recent events.
+
+Pictures of the interface here:
 
 <img src="https://github.com/uh-joan/historyUI/blob/master/app/images/overall02.png">
 
@@ -31,4 +35,4 @@ AngularJS is a toolset for building the framework for the application developmen
 
 Test Runner for JavaScript.
 
-
+Cherrypy version of the history <a href="https://github.com/uh-joan/UHCore/tree/master/WebUI/history">WebUI</a> as part of the <a href="https://github.com/uh-joan/UHCore">University of Hertfordshire Core code</a>
