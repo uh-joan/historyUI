@@ -7,11 +7,11 @@ This represents the COB robot memory of the recent events.
 
 Pictures of the interface here:
 
+<img src="https://github.com/uh-joan/historyUI/blob/master/app/images/overall01.png">
+
 <img src="https://github.com/uh-joan/historyUI/blob/master/app/images/overall02.png">
 
 <img src="https://github.com/uh-joan/historyUI/blob/master/app/images/overall03.png">
-
-<img src="https://github.com/uh-joan/historyUI/blob/master/app/images/overall01.png">
 
 It uses:
 
